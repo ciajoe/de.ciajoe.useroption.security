@@ -11,4 +11,4 @@ Provides a spambot protection for your WCF Site / Burning Board
 
 >foren-verbund.org for providing an support board
 
-Support is available on http://ciajoe.foren-verbund.org or via e-mail to plugins@demc.eu
+Support is available on http://ciajoe.foren-verbund.org or via e-mail to plugins[at]demc.eu
