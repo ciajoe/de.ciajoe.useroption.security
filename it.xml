@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd" languagecode="it">
+  <category name="wcf.user.option">
+		<item name="wcf.user.option.security_question"><![CDATA[Domanda di sicurezza]]></item>
+		<item name="wcf.user.option.security_question.description"><![CDATA[Per motivi di sicurezza, si prega di inserire il risultato del piccolo 9-7 qui. Se hai un problema con la voce, si prega di contattare l'amministratore!]]></item>
+	</category>
+</language>
