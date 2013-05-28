@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd" languagecode="de">
+  <category name="wcf.user.option">
+		<item name="wcf.user.option.security_question"><![CDATA[Sicherheitsfrage]]></item>
+		<item name="wcf.user.option.security_question.description"><![CDATA[Aus Sicherheitsgründen bitten wir Sie, hier das Ergebnis der kleinen Rechnung 9 - 7 einzutragen. Falls Sie ein Problem bei der Eingabe haben, kontaktieren Sie bitte den Adminstrator!]]></item>
+	</category>
+</language>
